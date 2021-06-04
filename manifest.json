@@ -1,0 +1,7 @@
+{
+  "name": "Figma Plugin UI",
+  "id": "982739910914103976",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
